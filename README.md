@@ -1,4 +1,4 @@
-# busybox - Simple Helm Chart to test Helm operations
+# Busybox - Simple Helm Chart to test Helm operations
 
 Sometimes it is about the system rather than the chart.
 
